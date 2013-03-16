@@ -170,7 +170,7 @@ blockquote {
     border-radius: 0; 
 
 /*	here you can change your profile image
-	background: url("../images/hero.jpg");*/
+	background: url("/resume/images/hero.jpg");*/
 
 	width: 0;
 	height: 0;
@@ -304,7 +304,7 @@ h5.about_subtitle{
 }
 /*Timeline classes*/
 .timeline{
-	background: url('../images/timeline-bg.png') center top repeat-y;
+	background: url('/resume/images/timeline-bg.png') center top repeat-y;
 	width: 100%;
 	float: left;
 }
@@ -517,7 +517,7 @@ h5.about_subtitle{
 	margin: 0 15px 0 -10px;
 }
 .job_image {
-	background: url("../images/hero.jpg");
+	background: url("/resume/images/hero.jpg");
 	background-position: -17px center;
 	width: 100%;
 	height: 100%;
@@ -794,44 +794,44 @@ h3.achievement_title{
 }
 /*here you can add more portfolio items to your portfolio section*/
 .awsm-img-1 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 
 .awsm-img-2 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-3 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-4 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-5 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-6 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-7 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-7 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-8 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-9 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-10 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-11 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-img-12 { 
-	background-image: url(../images/portfolio/default.jpg);
+	background-image: url(/resume/images/portfolio/default.jpg);
 }
 .awsm-info {
 	position: absolute;
@@ -1070,7 +1070,7 @@ p.quote{
 	opacity:1;
 }
 #refresh_captcha{
-	background: url('../images/refresh.png') no-repeat;
+	background: url('/resume/images/refresh.png') no-repeat;
 	height: 16px;
 	width: 16px;
 	display: block;

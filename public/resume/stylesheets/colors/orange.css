@@ -68,31 +68,31 @@ a:focus {
 ---------------------------------------------------------*/
 
 .twitter{
-	background: url('../../images/icons/orange/twitter.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/twitter.png') no-repeat center top;
 }
 .dribbble{
-	background: url('../../images/icons/orange/dribbble.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/dribbble.png') no-repeat center top;
 }
 .facebook{
-	background: url('../../images/icons/orange/facebook.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/facebook.png') no-repeat center top;
 }
 .gplus{
-	background: url('../../images/icons/orange/google.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/google.png') no-repeat center top;
 }
 .linkedin{
-	background: url('../../images/icons/orange/linkedin.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/linkedin.png') no-repeat center top;
 }
 .skype{
-	background: url('../../images/icons/orange/skype.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/skype.png') no-repeat center top;
 }
 .vimeo{
-	background: url('../../images/icons/orange/vimeo.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/vimeo.png') no-repeat center top;
 }
 .youtube{
-	background: url('../../images/icons/orange/youtube.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/youtube.png') no-repeat center top;
 }
 .zerply{
-	background: url('../../images/icons/orange/zerply.png') no-repeat center top;
+	background: url('/resume/images/icons/orange/zerply.png') no-repeat center top;
 }
 
 /*------------------------------------------------------
@@ -101,14 +101,14 @@ a:focus {
 ---------------------------------------------------------*/
 
 .pos_1{
-	background-image: url('../../images/icons/orange/twitter.png');
+	background-image: url('/resume/images/icons/orange/twitter.png');
 }
 .pos_2{
-	background-image: url('../../images/icons/orange/blog.png');
+	background-image: url('/resume/images/icons/orange/blog.png');
 }
 .pos_3{
-	background-image: url('../../images/icons/orange/octocat.png');
+	background-image: url('/resume/images/icons/orange/octocat.png');
 }
 .pos_4{
-	background-image: url('../../images/icons/orange/linkedin.png');
+	background-image: url('/resume/images/icons/orange/linkedin.png');
 }
