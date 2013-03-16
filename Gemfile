@@ -4,3 +4,7 @@ gem 'unicorn'
 gem 'foreman'
 
 gem 'sinatra'
+
+group :development do
+  gem 'shotgun'
+end
